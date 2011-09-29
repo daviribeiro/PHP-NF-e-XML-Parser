@@ -2,7 +2,7 @@
 
 
 Este software foi escrito por davi Antunes Ribeiro ( daviantunes27@hotmail.com )e é baseado no pacote nfePHP http://www.nfephp.org/ e no Twitter Bootstrap ( http://twitter.github.com/bootstrap/ )
-sendo livre para alteração e distribuiução conforme os termos da GPL v2 disponivel junto com este.
+sendo livre para alteração e distribuição conforme os termos da GPL v2 disponivel junto com este.
 
 
 --> 
