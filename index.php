@@ -9,7 +9,7 @@ sendo livre para alteração e distribuição conforme os termos da GPL v2 dispo
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <title>Sistema de Importação de XML e Calculos de Impostos de Notas Ficais</title>
+    <title>Sistema de Importação de XML e Calculos de Impostos de Notas Ficais - Versao XHTML</title>
       <meta charset="utf-8"/>
     
     <meta name="description" content="Sistema para Importação de XMLs para Calculos de impostos diversos - Entrada e Saida"/>
